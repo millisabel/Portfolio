@@ -18,7 +18,7 @@ Modern landing page for the metaverse with interactive elements and animations.
 
 HTML5 | SCSS | JavaScript (ES6+) | Webpack 5 | Bootstrap 5 | AOS | Three.js | GitHub Actions
 
-**👀 Preview**
+👀 **Preview**
 
 <p align="center">
   <img src="assets/images/Metaverse/Metaverse_1.png" width="20%" height="100px" alt="Screenshot 1"/>
@@ -43,7 +43,7 @@ HTML5 | SCSS | JavaScript (ES6+) | Webpack 5 | Bootstrap 5 | AOS | Three.js | Gi
 
 📅 **Duration:** April, 2023
 
-**👀 Preview**
+👀 **Preview**
 
 <p align="center">
   <img src="assets/images/Shelter/Shelter_1.png" width="20%" height="100px" alt="Screenshot 1"/>
@@ -54,3 +54,27 @@ HTML5 | SCSS | JavaScript (ES6+) | Webpack 5 | Bootstrap 5 | AOS | Three.js | Gi
 
 <hr>
 
+## Momentum
+
+🌍 [**Live Demo**](https://rolling-scopes-school.github.io/millisabel-JSFEPRESCHOOL2022Q4/momentum/)
+
+🎓 Educational project completed as part of the course [RS School](https://rs.school/).
+
+The application has a clock, image slider, weather widgets, audio player, quote of the day block, settings. Local storage - local storage - is used to store user name and locality.
+- working with date and time;
+- Custom audio player;
+- saving data to local storage;
+- using recursive setTimeout;
+- dividing js-code into modules;
+- working with asynchronous requests.
+
+
+🛠️ **Technologies:**  HTML | SCSS | JS
+
+📅 **Duration:** February, 2023
+
+👀 **Preview**
+
+![Screenshot](assets/images/Momentum/Momentum.png)
+
+<hr>
