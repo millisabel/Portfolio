@@ -33,7 +33,7 @@ HTML5 | SCSS | JavaScript (ES6+) | Webpack 5 | Bootstrap 5 | AOS | Three.js | Gi
 
 🌍 [**Live Demo**](https://rolling-scopes-school.github.io/millisabel-JSFE2023Q1/shelter/)
 
-Landing page
+🎓 Educational project completed as part of the course [RS School](https://rs.school/).
 
 - Responsive design for all devices
 - infinite carousel slider
