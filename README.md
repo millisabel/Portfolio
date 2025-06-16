@@ -221,3 +221,7 @@ I use:
 - [**CSS Bayan**](https://millisabel.github.io/cssBayan/cssBayan/index.html)— Accordion (bayan) built with pure CSS: expandable sections without JavaScript.
 - [**Virtual-Keyboard**](https://millisabel.github.io/RSS-Virtual-Keyboard/src/index.html)— Virtual keyboard in JavaScript: supports mouse and keyboard input, language switching.
 - [**Air-pollution**](https://millisabel.github.io/air-pollution/) — Interactive dashboard visualizing air pollution data by city and pollutant.
+
+<hr>
+
+![GitHub repo views](https://komarev.com/ghpvc/?username=millisabel&color=blue)
