@@ -21,10 +21,10 @@ HTML5 | SCSS | JavaScript (ES6+) | Webpack 5 | Bootstrap 5 | AOS | Three.js | Gi
 👀 **Preview**
 
 <p align="center">
-  <img src="assets/images/Metaverse/Metaverse_1.png" width="20%" height="100px" alt="Screenshot 1"/>
-  <img src="assets/images/Metaverse/Metaverse_2.png" width="20%" height="100px" alt="Screenshot 2"/>
-  <img src="assets/images/Metaverse/Metaverse_3.png" width="20%" height="100px" alt="Screenshot 3"/>
-  <img src="assets/images/Metaverse/Metaverse_4.png" width="20%" height="100px" alt="Screenshot 4"/>
+  <img src="assets/images/Metaverse/Metaverse_1.png" width="24%" height="120px" alt="Screenshot 1"/>
+  <img src="assets/images/Metaverse/Metaverse_2.png" width="24%" height="120px" alt="Screenshot 2"/>
+  <img src="assets/images/Metaverse/Metaverse_3.png" width="24%" height="120px" alt="Screenshot 3"/>
+  <img src="assets/images/Metaverse/Metaverse_4.png" width="24%" height="120px" alt="Screenshot 4"/>
 </p>
 
 <hr>
@@ -46,10 +46,10 @@ HTML5 | SCSS | JavaScript (ES6+) | Webpack 5 | Bootstrap 5 | AOS | Three.js | Gi
 👀 **Preview**
 
 <p align="center">
-  <img src="assets/images/Shelter/Shelter_1.png" width="20%" height="100px" alt="Screenshot 1"/>
-  <img src="assets/images/Shelter/Shelter_2.png" width="20%" height="100px" alt="Screenshot 2"/>
-  <img src="assets/images/Shelter/Shelter_3.png" width="20%" height="100px" alt="Screenshot 3"/>
-  <img src="assets/images/Shelter/Shelter_4.png" width="20%" height="100px" alt="Screenshot 4"/>
+  <img src="assets/images/Shelter/Shelter_1.png" width="24%" height="120px" alt="Screenshot 1"/>
+  <img src="assets/images/Shelter/Shelter_2.png" width="24%" height="120px" alt="Screenshot 2"/>
+  <img src="assets/images/Shelter/Shelter_3.png" width="24%" height="120px" alt="Screenshot 3"/>
+  <img src="assets/images/Shelter/Shelter_4.png" width="24%" height="120px" alt="Screenshot 4"/>
 </p>
 
 <hr>
@@ -94,9 +94,9 @@ landing page of the site, which offers its services in growing plants in the gar
 👀 **Preview**
 
 <p align="center">
-  <img src="assets/images/Plants/Plants_1.png" width="30%" height="120px" alt="Screenshot 1"/>
-  <img src="assets/images/Plants/Plants_2.png" width="30%" height="120px" alt="Screenshot 2"/>
-  <img src="assets/images/Plants/Plants_3.png" width="30%" height="120px" alt="Screenshot 3"/>
+  <img src="assets/images/Plants/Plants_1.png" width="32%" height="150px" alt="Screenshot 1"/>
+  <img src="assets/images/Plants/Plants_2.png" width="32%" height="150px" alt="Screenshot 2"/>
+  <img src="assets/images/Plants/Plants_3.png" width="32%" height="150px" alt="Screenshot 3"/>
 </p>
 
 <hr>
@@ -122,8 +122,8 @@ Implementation of an application that displays information about movies upon use
 👀 **Preview**
 
 <p align="center">
-  <img src="assets/images/Filmoscope/Filmoscope_1.png" width="45%" height="160px" alt="Screenshot 1"/>
-  <img src="assets/images/Filmoscope/Filmoscope_2.png" width="45%" height="160px" alt="Screenshot 2"/>
+  <img src="assets/images/Filmoscope/Filmoscope_1.png" width="45%" height="180px" alt="Screenshot 1"/>
+  <img src="assets/images/Filmoscope/Filmoscope_2.png" width="45%" height="180px" alt="Screenshot 2"/>
 </p>
 
 <hr>
@@ -151,9 +151,9 @@ Web site for photographer.
 👀 **Preview**
 
 <p align="center">
-  <img src="assets/images/Portfolio_for_a_photographer/Portfolio_1.png" width="30%" height="150px" alt="Screenshot 1"/>
-  <img src="assets/images/Portfolio_for_a_photographer/Portfolio_2.png" width="30%" height="150px" alt="Screenshot 2"/>
-  <img src="assets/images/Portfolio_for_a_photographer/Portfolio_3.png" width="30%" height="150px" alt="Screenshot 3"/>
+  <img src="assets/images/Portfolio_for_a_photographer/Portfolio_1.png" width="30%" height="180px" alt="Screenshot 1"/>
+  <img src="assets/images/Portfolio_for_a_photographer/Portfolio_2.png" width="30%" height="180px" alt="Screenshot 2"/>
+  <img src="assets/images/Portfolio_for_a_photographer/Portfolio_3.png" width="30%" height="180px" alt="Screenshot 3"/>
 </p>
 
 <hr>
@@ -175,9 +175,9 @@ Landing page for a flower delivery company
 👀 **Preview**
 
 <p align="center">
-  <img src="assets/images/Botanika/Botanika_1.png" width="30%" height="120px" alt="Screenshot 1"/>
-  <img src="assets/images/Botanika/Botanika_2.png" width="30%" height="120px" alt="Screenshot 2"/>
-  <img src="assets/images/Botanika/Botanika_3.png" width="30%" height="120px" alt="Screenshot 3"/>
+  <img src="assets/images/Botanika/Botanika_1.png" width="32%" height="180px" alt="Screenshot 1"/>
+  <img src="assets/images/Botanika/Botanika_2.png" width="32%" height="180px" alt="Screenshot 2"/>
+  <img src="assets/images/Botanika/Botanika_3.png" width="32%" height="180px" alt="Screenshot 3"/>
 </p>
 
 <hr>
