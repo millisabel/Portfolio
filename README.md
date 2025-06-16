@@ -2,6 +2,10 @@
 
 ## Metaverse
 
+🌍 [**Live Demo**](https://millisabel.github.io/Metaverse/)
+
+📂 [**GitHub Repository**](https://github.com/millisabel/Metaverse)
+
 Modern landing page for the metaverse with interactive elements and animations.
 
 - Responsive design for all devices
@@ -19,12 +23,34 @@ HTML5 | SCSS | JavaScript (ES6+) | Webpack 5 | Bootstrap 5 | AOS | Three.js | Gi
 <p align="center">
   <img src="assets/images/Metaverse/Metaverse_1.png" width="20%" height="100px" alt="Screenshot 1"/>
   <img src="assets/images/Metaverse/Metaverse_2.png" width="20%" height="100px" alt="Screenshot 2"/>
-  <img src="assets/images/Metaverse/Metaverse_3.png" width="20%" height="100px" alt="Screenshot 2"/>
-  <img src="assets/images/Metaverse/Metaverse_4.png" width="20%" height="100px" alt="Screenshot 2"/>
+  <img src="assets/images/Metaverse/Metaverse_3.png" width="20%" height="100px" alt="Screenshot 3"/>
+  <img src="assets/images/Metaverse/Metaverse_4.png" width="20%" height="100px" alt="Screenshot 4"/>
 </p>
 
-🌍 [**Live Demo**](https://millisabel.github.io/Metaverse/)
+<hr>
 
-📂 [**GitHub Repository**](https://github.com/millisabel/Metaverse)
+## Shelter
+
+🌍 [**Live Demo**](https://rolling-scopes-school.github.io/millisabel-JSFE2023Q1/shelter/)
+
+Landing page
+
+- Responsive design for all devices
+- infinite carousel slider
+- pagination, popup, burger menu
+
+🛠️ **Technologies:**  HTML | SCSS | JS
+
+📅 **Duration:** April, 2023
+
+**👀 Preview**
+
+<p align="center">
+  <img src="assets/images/Shelter/Shelter_1.png" width="20%" height="100px" alt="Screenshot 1"/>
+  <img src="assets/images/Shelter/Shelter_2.png" width="20%" height="100px" alt="Screenshot 2"/>
+  <img src="assets/images/Shelter/Shelter_3.png" width="20%" height="100px" alt="Screenshot 3"/>
+  <img src="assets/images/Shelter/Shelter_4.png" width="20%" height="100px" alt="Screenshot 4"/>
+</p>
 
 <hr>
+
