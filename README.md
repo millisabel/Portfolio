@@ -21,15 +21,15 @@ A modern landing page for an organic products store with interactive sections an
 
 🛠️ **Technologies:** 
 
-Vite | TypeScript | TailwindCSS (v3) | React (Hooks) | React Router DOM | Redux Toolkit | Formik + Yup | Framer Motion | JSON Server | GitHub Actions
+Vite | TypeScript | TailwindCSS (v3) | React (Hooks) | React Router DOM | Redux Toolkit | Formik | Framer Motion |  GitHub Actions
 
 👀 **Preview**
 
 <p align="center">
-  <img src="assets/images/Organic_Store/Organic_Store_1.png" width="24%" height="150px" alt="Screenshot 1"/>
-  <img src="assets/images/Organic_Store/Organic_Store_2.png" width="24%" height="150px" alt="Screenshot 2"/>
-  <img src="assets/images/Organic_Store/Organic_Store_3.png" width="24%" height="150px" alt="Screenshot 3"/>
-  <img src="assets/images/Organic_Store/Organic_Store_4.png" width="24%" height="150px" alt="Screenshot 4"/>
+  <img src="assets/images/Organic_Store/Organic_Store_1.png" width="24%" height="160px" alt="Screenshot 1"/>
+  <img src="assets/images/Organic_Store/Organic_Store_2.png" width="24%" height="160px" alt="Screenshot 2"/>
+  <img src="assets/images/Organic_Store/Organic_Store_3.png" width="24%" height="160px" alt="Screenshot 3"/>
+  <img src="assets/images/Organic_Store/Organic_Store_4.png" width="24%" height="160px" alt="Screenshot 4"/>
 </p>
 
 <hr>
