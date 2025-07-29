@@ -55,10 +55,10 @@ HTML5 | SCSS | JavaScript (ES6+) | Webpack 5 | Bootstrap 5 | AOS | Three.js | Gi
 👀 **Preview**
 
 <p align="center">
-  <img src="assets/images/Metaverse/Metaverse_1.png" width="24%" height="150px" alt="Screenshot 1"/>
-  <img src="assets/images/Metaverse/Metaverse_2.png" width="24%" height="150px" alt="Screenshot 2"/>
-  <img src="assets/images/Metaverse/Metaverse_3.png" width="24%" height="150px" alt="Screenshot 3"/>
-  <img src="assets/images/Metaverse/Metaverse_4.png" width="24%" height="150px" alt="Screenshot 4"/>
+  <img src="assets/images/Metaverse/Metaverse_1.png" width="24%" height="160px" alt="Screenshot 1"/>
+  <img src="assets/images/Metaverse/Metaverse_2.png" width="24%" height="160px" alt="Screenshot 2"/>
+  <img src="assets/images/Metaverse/Metaverse_3.png" width="24%" height="160px" alt="Screenshot 3"/>
+  <img src="assets/images/Metaverse/Metaverse_4.png" width="24%" height="160px" alt="Screenshot 4"/>
 </p>
 
 <hr>
@@ -80,10 +80,10 @@ HTML5 | SCSS | JavaScript (ES6+) | Webpack 5 | Bootstrap 5 | AOS | Three.js | Gi
 👀 **Preview**
 
 <p align="center">
-  <img src="assets/images/Shelter/Shelter_1.png" width="24%" height="150px" alt="Screenshot 1"/>
-  <img src="assets/images/Shelter/Shelter_2.png" width="24%" height="150px" alt="Screenshot 2"/>
-  <img src="assets/images/Shelter/Shelter_3.png" width="24%" height="150px" alt="Screenshot 3"/>
-  <img src="assets/images/Shelter/Shelter_4.png" width="24%" height="150px" alt="Screenshot 4"/>
+  <img src="assets/images/Shelter/Shelter_1.png" width="24%" height="160px" alt="Screenshot 1"/>
+  <img src="assets/images/Shelter/Shelter_2.png" width="24%" height="160px" alt="Screenshot 2"/>
+  <img src="assets/images/Shelter/Shelter_3.png" width="24%" height="160px" alt="Screenshot 3"/>
+  <img src="assets/images/Shelter/Shelter_4.png" width="24%" height="160px" alt="Screenshot 4"/>
 </p>
 
 <hr>
@@ -240,10 +240,10 @@ I use:
 👀 **Preview**
 
 <p align="center">
-  <img src="assets/images/DEVChallenge/DEVChallenge_1.png" width="24%" height="140px" alt="Screenshot 1"/>
-  <img src="assets/images/DEVChallenge/DEVChallenge_3.png" width="24%" height="140px" alt="Screenshot 3"/>
-  <img src="assets/images/DEVChallenge/DEVChallenge_2.png" width="24%" height="140px" alt="Screenshot 2"/>
-  <img src="assets/images/DEVChallenge/DEVChallenge_4.png" width="24%" height="140px" alt="Screenshot 4"/>
+  <img src="assets/images/DEVChallenge/DEVChallenge_1.png" width="24%" height="160px" alt="Screenshot 1"/>
+  <img src="assets/images/DEVChallenge/DEVChallenge_3.png" width="24%" height="160px" alt="Screenshot 3"/>
+  <img src="assets/images/DEVChallenge/DEVChallenge_2.png" width="24%" height="160px" alt="Screenshot 2"/>
+  <img src="assets/images/DEVChallenge/DEVChallenge_4.png" width="24%" height="160px" alt="Screenshot 4"/>
 </p>
 
 <hr>
