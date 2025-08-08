@@ -26,10 +26,10 @@ Vite | TypeScript | TailwindCSS (v3) | React (Hooks) | React Router DOM | Redux 
 👀 **Preview**
 
 <p align="center">
-  <img src="assets/images/Organic_Store/Organic_Store_1.png" width="24%" height="160px" alt="Screenshot 1"/>
-  <img src="assets/images/Organic_Store/Organic_Store_2.png" width="24%" height="160px" alt="Screenshot 2"/>
-  <img src="assets/images/Organic_Store/Organic_Store_3.png" width="24%" height="160px" alt="Screenshot 3"/>
-  <img src="assets/images/Organic_Store/Organic_Store_4.png" width="24%" height="160px" alt="Screenshot 4"/>
+  <img src="assets/images/Organic_Store/Organic_Store_1.png" width="24%" height="150px" alt="Screenshot 1"/>
+  <img src="assets/images/Organic_Store/Organic_Store_2.png" width="24%" height="150px" alt="Screenshot 2"/>
+  <img src="assets/images/Organic_Store/Organic_Store_3.png" width="24%" height="150px" alt="Screenshot 3"/>
+  <img src="assets/images/Organic_Store/Organic_Store_4.png" width="24%" height="150px" alt="Screenshot 4"/>
 </p>
 
 <hr>
