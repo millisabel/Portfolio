@@ -1,6 +1,36 @@
-
-
 # Welcome to my portfolio! 😊
+
+## Organic Store
+
+🌍 [Live Demo](https://millisabel.github.io/Organic/)
+
+📂 [**GitHub Repository**](https://github.com/millisabel/Organic)
+
+A modern landing page for an organic products store with interactive sections and responsive design.
+
+- Animation effects (flip cards, smooth transitions, Framer Motion)
+- Convenient shopping cart and product filtering
+- Product search and sorting
+- Modern component architecture (React + TypeScript)
+- Accessibility (a11y, aria attributes, focus management)
+- Integration with GitHub Actions for automatic deployment
+
+📅 **Duration:** June - July, 2025
+
+🛠️ **Technologies:**
+
+Vite | TypeScript | TailwindCSS (v3) | React (Hooks) | React Router DOM | Redux Toolkit | Formik | Framer Motion | GitHub Actions
+
+👀 **Preview**
+
+<p align="center">
+  <img src="assets/images/Organic_Store/Organic_Store_1.png" width="24%" height="150px" alt="Screenshot 1"/>
+  <img src="assets/images/Organic_Store/Organic_Store_2.png" width="24%" height="150px" alt="Screenshot 2"/>
+  <img src="assets/images/Organic_Store/Organic_Store_3.png" width="24%" height="150px" alt="Screenshot 3"/>
+  <img src="assets/images/Organic_Store/Organic_Store_4.png" width="24%" height="150px" alt="Screenshot 4"/>
+</p>
+
+<hr>
 
 ## Metaverse
 
@@ -14,19 +44,19 @@ Modern landing page for the metaverse with interactive elements and animations.
 - Smooth animations with AOS & Three.js
 - Performance optimization (lazy loading, minification)
 
-📅 **Duration:**  April - June, 2025
+📅 **Duration:** April - June, 2025
 
-🛠️ **Technologies:** 
+🛠️ **Technologies:**
 
 HTML5 | SCSS | JavaScript (ES6+) | Webpack 5 | Bootstrap 5 | AOS | Three.js | GitHub Actions
 
 👀 **Preview**
 
 <p align="center">
-  <img src="assets/images/Metaverse/Metaverse_1.png" width="24%" height="150px" alt="Screenshot 1"/>
-  <img src="assets/images/Metaverse/Metaverse_2.png" width="24%" height="150px" alt="Screenshot 2"/>
-  <img src="assets/images/Metaverse/Metaverse_3.png" width="24%" height="150px" alt="Screenshot 3"/>
-  <img src="assets/images/Metaverse/Metaverse_4.png" width="24%" height="150px" alt="Screenshot 4"/>
+  <img src="assets/images/Metaverse/Metaverse_1.png" width="24%" height="140px" alt="Screenshot 1"/>
+  <img src="assets/images/Metaverse/Metaverse_2.png" width="24%" height="140px" alt="Screenshot 2"/>
+  <img src="assets/images/Metaverse/Metaverse_3.png" width="24%" height="140px" alt="Screenshot 3"/>
+  <img src="assets/images/Metaverse/Metaverse_4.png" width="24%" height="140px" alt="Screenshot 4"/>
 </p>
 
 <hr>
@@ -41,17 +71,17 @@ HTML5 | SCSS | JavaScript (ES6+) | Webpack 5 | Bootstrap 5 | AOS | Three.js | Gi
 - infinite carousel slider
 - pagination, popup, burger menu
 
-🛠️ **Technologies:**  HTML | SCSS | JS
+🛠️ **Technologies:** HTML | SCSS | JS
 
 📅 **Duration:** April, 2023
 
 👀 **Preview**
 
 <p align="center">
-  <img src="assets/images/Shelter/Shelter_1.png" width="24%" height="150px" alt="Screenshot 1"/>
-  <img src="assets/images/Shelter/Shelter_2.png" width="24%" height="150px" alt="Screenshot 2"/>
-  <img src="assets/images/Shelter/Shelter_3.png" width="24%" height="150px" alt="Screenshot 3"/>
-  <img src="assets/images/Shelter/Shelter_4.png" width="24%" height="150px" alt="Screenshot 4"/>
+  <img src="assets/images/Shelter/Shelter_1.png" width="24%" height="130px" alt="Screenshot 1"/>
+  <img src="assets/images/Shelter/Shelter_2.png" width="24%" height="130px" alt="Screenshot 2"/>
+  <img src="assets/images/Shelter/Shelter_3.png" width="24%" height="130px" alt="Screenshot 3"/>
+  <img src="assets/images/Shelter/Shelter_4.png" width="24%" height="130px" alt="Screenshot 4"/>
 </p>
 
 <hr>
@@ -63,6 +93,7 @@ HTML5 | SCSS | JavaScript (ES6+) | Webpack 5 | Bootstrap 5 | AOS | Three.js | Gi
 🎯 Educational project completed as part of the course [RS School](https://rs.school/).
 
 The application has a clock, image slider, weather widgets, audio player, quote of the day block, settings. Local storage - local storage - is used to store user name and locality.
+
 - working with date and time;
 - Custom audio player;
 - saving data to local storage;
@@ -70,7 +101,7 @@ The application has a clock, image slider, weather widgets, audio player, quote 
 - dividing js-code into modules;
 - working with asynchronous requests.
 
-🛠️ **Technologies:**  HTML | SCSS | JS
+🛠️ **Technologies:** HTML | SCSS | JS
 
 📅 **Duration:** February, 2023
 
@@ -88,8 +119,7 @@ The application has a clock, image slider, weather widgets, audio player, quote 
 
 landing page of the site, which offers its services in growing plants in the garden and care of them.
 
-
-🛠️ **Technologies:**  HTML | SCSS | JS
+🛠️ **Technologies:** HTML | SCSS | JS
 
 📅 **Duration:** February, 2023
 
@@ -117,7 +147,7 @@ Implementation of an application that displays information about movies upon use
 - Adaptive design
 - [TMDB API](https://www.themoviedb.org/documentation/api)
 
-🛠️ **Technologies:**  HTML | SCSS | JS
+🛠️ **Technologies:** HTML | SCSS | JS
 
 📅 **Duration:** January, 2022
 
@@ -146,9 +176,9 @@ Web site for photographer.
 - Custom video player
 - Text translation
 
-🛠️ **Technologies:**  HTML | CSS | JS
+🛠️ **Technologies:** HTML | CSS | JS
 
-📅 **Duration:**      January, 2022
+📅 **Duration:** January, 2022
 
 👀 **Preview**
 
@@ -170,9 +200,9 @@ Web site for photographer.
 
 Landing page for a flower delivery company
 
-🛠️ **Technologies:**  HTML | CSS | JS
+🛠️ **Technologies:** HTML | CSS | JS
 
-📅 **Duration:**      August, 2022
+📅 **Duration:** August, 2022
 
 👀 **Preview**
 
@@ -196,22 +226,22 @@ Website for the company in the crypto industry (We took 3rd place in the Fronten
 - Adaptive design
 - Pixel Perfect
 - work with API YouTube
-I use:
+  I use:
 - Glide JS
 - Animate.css
 - YouTube API
 
-🛠️ **Technologies:**  HTML | CSS | JS
+🛠️ **Technologies:** HTML | CSS | JS
 
-📅 **Duration:**      November 2020
+📅 **Duration:** November 2020
 
 👀 **Preview**
 
 <p align="center">
-  <img src="assets/images/DEVChallenge/DEVChallenge_1.png" width="24%" height="140px" alt="Screenshot 1"/>
-  <img src="assets/images/DEVChallenge/DEVChallenge_3.png" width="24%" height="140px" alt="Screenshot 3"/>
-  <img src="assets/images/DEVChallenge/DEVChallenge_2.png" width="24%" height="140px" alt="Screenshot 2"/>
-  <img src="assets/images/DEVChallenge/DEVChallenge_4.png" width="24%" height="140px" alt="Screenshot 4"/>
+  <img src="assets/images/DEVChallenge/DEVChallenge_1.png" width="24%" height="160px" alt="Screenshot 1"/>
+  <img src="assets/images/DEVChallenge/DEVChallenge_3.png" width="24%" height="160px" alt="Screenshot 3"/>
+  <img src="assets/images/DEVChallenge/DEVChallenge_2.png" width="24%" height="160px" alt="Screenshot 2"/>
+  <img src="assets/images/DEVChallenge/DEVChallenge_4.png" width="24%" height="160px" alt="Screenshot 4"/>
 </p>
 
 <hr>
@@ -223,8 +253,8 @@ I use:
 - [**CSS Bayan**](https://millisabel.github.io/cssBayan/cssBayan/index.html)— Accordion (bayan) built with pure CSS: expandable sections without JavaScript.
 - [**Virtual-Keyboard**](https://millisabel.github.io/RSS-Virtual-Keyboard/src/index.html)— Virtual keyboard in JavaScript: supports mouse and keyboard input, language switching.
 - [**Air-pollution**](https://millisabel.github.io/air-pollution/) — Interactive dashboard visualizing air pollution data by city and pollutant.
+- [**Website for Pharma industry**](https://millisabel.github.io/Learning-Projects/adele/) — Interactive dashboard visualizing air pollution data by city and pollutant.
 
 <hr>
-
 
 ![GitHub repo views](https://komarev.com/ghpvc/?username=millisabel&color=blue)
